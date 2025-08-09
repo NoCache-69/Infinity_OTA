@@ -1,0 +1,13 @@
+Device: OnePlus Nord CE2 Lite 5G
+Device code name : oscaro
+Device maintainer: Chethan(No_Cache)
+
+
+Date - 09/08/2025
+===============
+- Synced with latest source
+- Unofficial OTA setup
+
+Date - 01/08/2025
+===============
+- Synced with latest source
